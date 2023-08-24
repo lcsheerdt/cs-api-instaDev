@@ -1,5 +1,5 @@
 Case Study
-- course classes: backend - NodeJS + Sequelize + Autenticação + MySQL + Postman - NodeJS on Udemy
+- course classes: backend NodeJS on Udemy + Sequelize + Autenticação + MySQL + Postman
 
 - ORM Sequelize
 - Migrations
